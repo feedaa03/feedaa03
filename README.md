@@ -1,64 +1,118 @@
-# Hi there, I'm Fada! 👋
+# Hi 👋, I'm Feda Mohammed Alyahya
 
-<div align="center">
-  <h3>🤖 AI Product Engineer | 📱 iOS Developer | 🧠 Project Manager</h3>
-  <p>Passionate about building intelligent products, crafting native mobile experiences, and bridging the gap between GenAI and the Arabic language market.</p>
-</div>
+### AI Product Engineer · Generative AI · Multi-Agent Systems · iOS Developer — based in Riyadh, Saudi Arabia 🇸🇦
 
----
-
-### 🚀 About Me
-- ⚡ **Current Focus:** Developing production-ready Multi-Agent systems and crafting seamless iOS/Android applications.
-- 🎯 **Mission:** Driven by a passion to enrich the Arabic AI market with powerful, localized intelligent products.
-- 👥 **Leadership:** Lead and Project Manager at **Team Maximus**, driving agile development and product delivery.
+I build intelligent products that combine autonomous AI systems with thoughtfully crafted user experiences.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 🤖 About Me
 
-#### 🧠 Artificial Intelligence & Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
-</p>
+I'm an AI Product Engineer passionate about turning cutting-edge AI into products people genuinely enjoy using. My work spans autonomous multi-agent systems, Retrieval-Augmented Generation (RAG), and native iOS development, where I focus on building experiences that feel as polished as the intelligence behind them.
 
-#### 📱 Mobile & Front-End Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/SwiftUI-1572B6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/Salla_API-00B2A9?style=for-the-badge&logo=salla&logoColor=white" alt="Salla API" />
-</p>
+Rather than treating AI as a feature, I design products where AI becomes a reliable collaborator—whether that's orchestrating enterprise workflows or creating delightful consumer experiences on iPhone.
 
-#### 🎨 Creative Coding & Vision (Experimental)
-<p align="left">
-  <img src="https://img.shields.io/badge/TouchDesigner-000000?style=for-the-badge&logo=touchdesigner&logoColor=white" alt="TouchDesigner" />
-  <img src="https://img.shields.io/badge/MediaPipe-007ACC?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
-</p>
+- 🤖 Building production-ready Multi-Agent AI systems using **CrewAI**, RAG, function calling, and LLM orchestration
+- 🍎 Developed and published multiple iOS applications using **SwiftUI**, **SwiftData**, **CloudKit**, **AVFoundation**, and **Vision**
+- 🏆 Apple Developer Academy Scholarship recipient (2025–2026)
+- 🎬 Built **POV – Direct Your Day**, selected among the **Top 5 Graduation Projects** at Apple Developer Academy and featured during graduation
+- 🧠 Passionate about AI product strategy, human-centered design, and intelligent automation
+- 🌱 Currently exploring AI agents, LLM evaluation, production AI systems, and on-device intelligence
+- 📍 Based in Riyadh, Saudi Arabia
+- 📫 Reach me at **realfedaa@gmail.com**
 
 ---
 
-### 📂 Current Projects & Ventures
-*   **Mirth App ☕:** A native mobile experience integrated with the Salla Pro API to redefine coffee shop interactions.
-*   **Compliance Multi-Agent System 📊:** Building specialized AI agent frameworks using CrewAI to automate and streamline regulatory compliance.
-*   **Archival & Cinematic Aesthetics 🎬:** Exploring the intersection of Saudi cultural history, vintage 35mm film aesthetics, and AI-driven visual generation.
+# 🚀 Featured Projects
+
+| Project | Description | My Role |
+|----------|-------------|----------|
+| **🎬 POV – Direct Your Day** | An AI-powered cinematic journaling app that helps users see their lives through the storytelling styles of legendary filmmakers. | **iOS Developer & Product Lead** — led a team of five across product strategy, UX research, design, and full-stack iOS development. Top 5 Graduation Project at Apple Developer Academy. |
+| **🌸 Flowzzley** | A daily puzzle experience that teaches the hidden language and symbolism of flowers through interactive gameplay. | **Solo Developer** — designed, developed, and shipped the complete SwiftUI application for the Apple Swift Student Challenge. |
+| **🧵 Naseej** *(Coming Soon)* | AI-powered fabric recognition app that identifies textile materials and promotes sustainable fashion choices using computer vision. | **iOS Developer & Product Designer** — conducted user research, designed the experience, and implemented the computer vision pipeline. |
+| **🤖 Multi-Agent Compliance AI System** | Enterprise AI platform that automates regulatory compliance using autonomous agents, Retrieval-Augmented Generation, and semantic search. | **AI Product Engineer** — architected the multi-agent workflow, implemented the RAG pipeline, function calling, telemetry, and production evaluation. |
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial&count_private=true" alt="Fada's GitHub Stats" />
-</p>
+### 🤖 Artificial Intelligence
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial" alt="Top Languages" />
-</p>
+- Multi-Agent Systems
+- CrewAI
+- Agent Orchestration
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- Function Calling
+- Semantic Search
+- LLM Evaluation
+- Production Tracing
+
+### 🍎 iOS Development
+
+- Swift
+- SwiftUI
+- SwiftData
+- CloudKit
+- AVFoundation
+- AVKit
+- Vision
+- Core ML
+
+### 💻 Frontend
+
+- React
+- JavaScript
+- HTML
+- Tailwind CSS
+
+### ⚙️ Tools
+
+- Xcode
+- VS Code
+- Git
+- GitHub
+- Cursor
+- Claude
+- ChatGPT
+- Gemini
+- Hugging Face
+- Google Colab
+- Netlify
+- Figma
+- Miro
+- Notion
 
 ---
 
-<div align="center">
-  <span>"Let's build the future of AI and mobile, one commit at a time." ✨</span>
-</div>
+## 🏅 Certifications
+
+- 🍎 Apple Developer Academy Scholarship (2025–2026)
+- 🤖 Developing Generative AI Solutions — SDAIA
+- 🧠 Artificial Intelligence Concepts & Advanced Applications
+- ⚖️ Ethics of Artificial Intelligence — Ministry of Communications & Information Technology
+- 💻 Computer Science & Programming — Prince Sattam bin Abdulaziz University
+
+---
+
+## 🌱 Currently Learning
+
+- Production Multi-Agent AI Systems
+- Advanced LLM Evaluation
+- On-device AI & Apple Foundation Models
+- AI Product Architecture
+- Human-AI Interaction
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email:** realfedaa@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/feda-alyahya-aa7729320/
+
+💻 **GitHub:**  
+https://github.com/feedaa03
+
+🌐 **Portfolio:** *(Coming Soon)*
