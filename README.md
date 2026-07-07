@@ -2,24 +2,25 @@
 
 ### AI Product Engineer · Generative AI · Multi-Agent Systems · iOS Developer — based in Riyadh, Saudi Arabia 🇸🇦
 
-I build intelligent products that combine autonomous AI systems with thoughtfully crafted user experiences.
+I build intelligent products that combine autonomous AI systems with beautifully crafted iOS experiences.
 
 ---
 
 ## 🤖 About Me
 
-I'm an AI Product Engineer passionate about turning cutting-edge AI into products people genuinely enjoy using. My work spans autonomous multi-agent systems, Retrieval-Augmented Generation (RAG), and native iOS development, where I focus on building experiences that feel as polished as the intelligence behind them.
+I'm an AI Product Engineer passionate about transforming cutting-edge AI into products people genuinely enjoy using. My work spans autonomous multi-agent systems, Retrieval-Augmented Generation (RAG), and native iOS development, where I focus on building experiences that are both technically powerful and thoughtfully designed.
 
-Rather than treating AI as a feature, I design products where AI becomes a reliable collaborator—whether that's orchestrating enterprise workflows or creating delightful consumer experiences on iPhone.
+🍎 Apple Developer Academy Scholarship recipient (2025–2026)
 
-- 🤖 Building production-ready Multi-Agent AI systems using **CrewAI**, RAG, function calling, and LLM orchestration
-- 🍎 Developed and published multiple iOS applications using **SwiftUI**, **SwiftData**, **CloudKit**, **AVFoundation**, and **Vision**
-- 🏆 Apple Developer Academy Scholarship recipient (2025–2026)
-- 🎬 Built **POV – Direct Your Day**, selected among the **Top 5 Graduation Projects** at Apple Developer Academy and featured during graduation
-- 🧠 Passionate about AI product strategy, human-centered design, and intelligent automation
-- 🌱 Currently exploring AI agents, LLM evaluation, production AI systems, and on-device intelligence
-- 📍 Based in Riyadh, Saudi Arabia
-- 📫 Reach me at **realfedaa@gmail.com**
+🤖 Building production-ready AI systems using Multi-Agent Architectures, CrewAI, RAG, Function Calling, and LLM orchestration
+
+📱 Developed and published iOS applications using SwiftUI, SwiftData, CloudKit, AVFoundation, Vision, and Core ML
+
+🏆 Contributed as an iOS Developer to **POV – Direct Your Day**, selected among the **Top 5 Graduation Projects** at the Apple Developer Academy and featured during the graduation showcase
+
+🌱 Currently exploring AI Agents, LLM Evaluation, Apple Foundation Models, and on-device AI
+
+📫 Reach me at **realfedaa@gmail.com**
 
 ---
 
@@ -27,61 +28,93 @@ Rather than treating AI as a feature, I design products where AI becomes a relia
 
 | Project | Description | My Role |
 |----------|-------------|----------|
-| **🎬 POV – Direct Your Day** | An AI-powered cinematic journaling app that helps users see their lives through the storytelling styles of legendary filmmakers. | **iOS Developer & Product Lead** — led a team of five across product strategy, UX research, design, and full-stack iOS development. Top 5 Graduation Project at Apple Developer Academy. |
-| **🌸 Flowzzley** | A daily puzzle experience that teaches the hidden language and symbolism of flowers through interactive gameplay. | **Solo Developer** — designed, developed, and shipped the complete SwiftUI application for the Apple Swift Student Challenge. |
-| **🧵 Naseej** *(Coming Soon)* | AI-powered fabric recognition app that identifies textile materials and promotes sustainable fashion choices using computer vision. | **iOS Developer & Product Designer** — conducted user research, designed the experience, and implemented the computer vision pipeline. |
-| **🤖 Multi-Agent Compliance AI System** | Enterprise AI platform that automates regulatory compliance using autonomous agents, Retrieval-Augmented Generation, and semantic search. | **AI Product Engineer** — architected the multi-agent workflow, implemented the RAG pipeline, function calling, telemetry, and production evaluation. |
+| **🎬 POV – Direct Your Day** | AI-powered cinematic journaling app inspired by legendary filmmakers. | **iOS Developer** — developed core features using SwiftUI, SwiftData, CloudKit, and AVFoundation as part of a collaborative team of five. Top 5 Graduation Project at Apple Developer Academy. |
+| **🌸 Flowzzley** | Daily puzzle experience that teaches the hidden language of flowers. | **Solo iOS Developer** — designed, developed, and published the entire application using SwiftUI. |
+| **🧵 Naseej** *(Coming Soon)* | AI-powered fabric recognition app promoting sustainable fashion through computer vision. | **iOS Developer** — product design, UI/UX, user research, and application development using Vision and SwiftUI. |
+| **🤖 Multi-Agent Compliance AI System** | Enterprise AI platform for regulatory compliance using autonomous agents and Retrieval-Augmented Generation. | **AI Engineer** — designed multi-agent workflows, RAG pipelines, function calling, and production evaluation. |
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠 Languages & Tools
 
 ### 🤖 Artificial Intelligence
 
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=git" />
+</p>
+
+**Working with**
+
 - Multi-Agent Systems
 - CrewAI
-- Agent Orchestration
-- Retrieval-Augmented Generation (RAG)
+- RAG
 - Prompt Engineering
 - Function Calling
-- Semantic Search
 - LLM Evaluation
-- Production Tracing
+- Vector Databases
+- APIs
+
+---
 
 ### 🍎 iOS Development
 
-- Swift
+<p>
+<img src="https://skillicons.dev/icons?i=swift" />
+<img src="https://skillicons.dev/icons?i=apple" />
+</p>
+
+**Working with**
+
 - SwiftUI
 - SwiftData
-- CloudKit
 - AVFoundation
 - AVKit
+- CloudKit
 - Vision
 - Core ML
+- UserNotifications
 
-### 💻 Frontend
+---
 
-- React
+### 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+**Working with**
+
+- HTML5
+- CSS3
 - JavaScript
-- HTML
+- React
 - Tailwind CSS
 
-### ⚙️ Tools
+---
 
-- Xcode
-- VS Code
-- Git
-- GitHub
-- Cursor
+### ⚙️ Workflow & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,netlify,notion" />
+</p>
+
+**AI & Design**
+
+- Cursor AI
 - Claude
 - ChatGPT
 - Gemini
 - Hugging Face
 - Google Colab
-- Netlify
-- Figma
+- CrewAI
+- Xcode
 - Miro
-- Notion
+- Sketch
+- Confluence
+- Microsoft Teams
+- Microsoft Office
 
 ---
 
@@ -90,29 +123,23 @@ Rather than treating AI as a feature, I design products where AI becomes a relia
 - 🍎 Apple Developer Academy Scholarship (2025–2026)
 - 🤖 Developing Generative AI Solutions — SDAIA
 - 🧠 Artificial Intelligence Concepts & Advanced Applications
-- ⚖️ Ethics of Artificial Intelligence — Ministry of Communications & Information Technology
+- ⚖️ Ethics of Artificial Intelligence — MCIT
 - 💻 Computer Science & Programming — Prince Sattam bin Abdulaziz University
 
 ---
 
-## 🌱 Currently Learning
+## 🤝 Connect with Me
 
-- Production Multi-Agent AI Systems
-- Advanced LLM Evaluation
-- On-device AI & Apple Foundation Models
-- AI Product Architecture
-- Human-AI Interaction
+<p align="left">
+<a href="https://www.linkedin.com/in/feda-alyahya-aa7729320/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
----
+<a href="https://github.com/feedaa03" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 
-## 🤝 Let's Connect
-
-📧 **Email:** realfedaa@gmail.com
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/feda-alyahya-aa7729320/
-
-💻 **GitHub:**  
-https://github.com/feedaa03
-
-🌐 **Portfolio:** *(Coming Soon)*
+<a href="mailto:realfedaa@gmail.com">
+<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
