@@ -1,6 +1,6 @@
 # Hi 👋, I'm Feda Mohammed Alyahya
 
-### AI Product Engineer · Generative AI · Multi-Agent Systems · iOS Developer
+### AI Engineer · Generative AI · Multi-Agent Systems · iOS Developer
 
 Building intelligent products where AI orchestration meets beautifully crafted user experiences.
 
@@ -12,7 +12,7 @@ Building intelligent products where AI orchestration meets beautifully crafted u
 
 ## 🤖 About Me
 
-I'm an AI Product Engineer passionate about transforming cutting-edge AI into products people genuinely enjoy using.
+I'm an AI Engineer passionate about transforming cutting-edge AI into products people genuinely enjoy using.
 
 My work combines autonomous AI systems, Retrieval-Augmented Generation (RAG), and native iOS development to create experiences that are both intelligent and intuitive.
 
